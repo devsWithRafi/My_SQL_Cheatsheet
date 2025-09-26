@@ -224,6 +224,3 @@ DROP USER 'rafi'@'localhost';
 ```
 
 ---
-
-✅ Copy this `SQL.md` file into your GitHub repo for a clean, highlighted cheatsheet!
-
